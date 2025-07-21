@@ -1,0 +1,10 @@
+a =int (input("enter the first number:"))
+b =int (input("enter the second number:"))
+
+print("addition:",a+b)
+print("subtarction:",a-b)
+print("multiplication:",a*b)
+print("division:",a/b)
+print("floor division:",a//b)
+print("modulus:",a%b)
+print("exponential:",a**b)
